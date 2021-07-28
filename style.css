@@ -1,0 +1,21 @@
+body {
+  background-color: #a5dfe8;
+font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif
+  }
+
+h1{
+  background-color:lightsalmon;
+  background-size: 30%;
+
+}
+.box{
+  border-radius: 3px;
+  border: 1.2px solid black;
+}
+ button{
+   background-color:lightsalmon;
+   font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+  font-size: 16px;
+  border-radius: 10px;
+  border: 1.5px solid black;
+ }
